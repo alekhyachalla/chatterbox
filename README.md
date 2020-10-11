@@ -20,4 +20,4 @@ python chatterbox.py
 
 A snippet of the sample execution for is as follows:
 
-
+![alt text](https://github.com/alekhyachalla/chatterbox/blob/main/chatterbox.png?raw=true)
